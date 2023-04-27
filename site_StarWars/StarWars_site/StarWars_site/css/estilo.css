@@ -1,0 +1,19 @@
+header{
+    background-color: blueviolet;
+}
+
+.banner{
+    width: 100%;
+}
+
+.container{
+    width: 80%;
+    background-color: aquamarine;
+    margin: auto;
+}
+footer{
+    background-color: crimson;
+    width: 100%;
+
+}
+
